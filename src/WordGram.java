@@ -1,8 +1,3 @@
-/**
- * simple reference solution for Part 2
- * @author ola
- *
- */
 public class WordGram {
 	private String[] myWords;
 	private String myToString;
