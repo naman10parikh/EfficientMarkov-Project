@@ -3,11 +3,9 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Scanner;
 
-/**
+ /*
  * Convenience class to open file or URL and return
  * entire resource as a single string
- * @author ola
- *
  */
 public class TextSource {
 	
