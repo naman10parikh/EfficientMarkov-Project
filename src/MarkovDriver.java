@@ -2,10 +2,8 @@ import java.io.File;
 import java.util.Scanner;
 import java.util.*;
 
-/**
+ /*
  * Driver for Markov Model classes
- * @author ola
- * Modified for Fall 2020
  */
 
 public class MarkovDriver {
