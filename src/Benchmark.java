@@ -1,14 +1,6 @@
 import java.io.*;
 import java.util.*;
 
-/**
- * Modified from Spring 2016 offering of Compsci 201
- * Rewritten for Fall 2018, updated Spring 2019
- * @author ola
- * @version 2.0
- */
-
-
 public class Benchmark {
 	
 	private static final int TRIALS = 5; // number of trials for each run
